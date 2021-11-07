@@ -12,6 +12,8 @@
 
 3. <font color="red">The "one more question" is at the end of the **Readme.md**.</font>
 
+4. Use **Typora** to read the readme.md will be better.
+
 
 
 ## How to use
